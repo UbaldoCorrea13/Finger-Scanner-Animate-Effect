@@ -2,7 +2,7 @@
 
 <img align="center" >![scanner animate](https://user-images.githubusercontent.com/92760416/159528020-987fe1b6-1148-422f-87c8-34c779df75d3.gif)</img>
 
-### 🏠 [Homepage](https://github.com/UbaldoCorrea13/Presentation-card#readme)
+### 🏠 [Homepage](https://github.com/UbaldoCorrea13)
 
 ## 👨🏾‍💻 Techs
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -17,7 +17,7 @@
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/UbaldoCorrea13/Presentation-card/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/UbaldoCorrea13).
 
 
 ***
